@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bahmutov/vue-vuex-todomvc.git"
+    "url": "git+https://github.com/anixautomation/VUE-QE-TEST.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bahmutov/vue-vuex-todomvc/issues"
+    "url": "https://github.com/anixautomation/VUE-QE-TEST/issues"
   },
-  "homepage": "https://github.com/bahmutov/vue-vuex-todomvc#readme",
+  "homepage": "https://github.com/anixautomation/VUE-QE-TEST#readme",
   "dependencies": {
     "json-server": "0.15.1",
     "todomvc-app-css": "2.3.0",
