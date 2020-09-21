@@ -1,6 +1,6 @@
 # VUE-QE-TEST [For Testing]
 
-This is simple MVC with [Vue.js](https://vuejs.org/)
+This is simple todoMVC with [Vue.js](https://vuejs.org/)
 and [Vuex](https://vuex.vuejs.org/en/) data store.
 
 Based on [this Vuex tutorial](https://codeburst.io/build-a-simple-todo-app-with-vue-js-1778ae175514) and the basic official [TodoMVC vue.js example](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
