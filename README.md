@@ -1,4 +1,4 @@
-# vue-QE-TEST [![Build Status]
+# VUE-QE-TEST [For Testing]
 
 Simple TodoMVC with [Vue.js](https://vuejs.org/)
 and [Vuex](https://vuex.vuejs.org/en/) data store.
